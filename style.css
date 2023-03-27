@@ -1,0 +1,20 @@
+/*.overlay{
+    width: 500px;
+    height: 500px;
+    visibility: hidden;
+    background-color: aqua;
+}
+.open_overlay{
+    visibility: visible;
+}
+.close{
+    position: absolute;
+    top: 10em;
+}*/
+.overlay{
+    visibility: hidden;
+    background-color: aqua;
+}
+.open_overlay{
+    visibility: visible;
+}
